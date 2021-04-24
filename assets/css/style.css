@@ -1,0 +1,81 @@
+/* Base */
+body {
+  @apply bg-gray-900 text-gray-400 antialiased;
+}
+
+.grid-item {
+  @apply p-1;
+  @screen md {
+    @apply p-02;
+  }
+  @screen lg {
+    @apply p-2;
+  }
+}
+
+strong {
+  @apply text-gray-100;
+}
+
+/* li a, */
+p a {
+  @apply border-gray-500 border-b;
+  &:hover {
+    @apply text-white border-gray-400;
+  }
+}
+
+*:focus {
+  @apply outline-none shadow-outline;
+}
+
+/* .focus:focus,
+.focus:active {
+  @apply bg-red-600 text-white;
+} */
+
+/* Transitions */
+.trans-100 {
+  @apply transition-colors duration-100 ease-in-out;
+}
+
+hr {
+  @apply border border-gray-800;
+}
+
+@responsive {
+  .bg-gradient-red {
+    background: rgb(255, 40, 70);
+    background: linear-gradient(
+      -45deg,
+      rgba(255, 40, 70, 1) 20%,
+      rgba(255, 5, 40, 1) 80%
+    );
+  }
+}
+
+/* CSS Transitions */
+
+.page-enter-active,
+.page-leave-active,
+.layout-enter-active,
+.layout-leave-active {
+  transition: opacity 0.333s ease-in-out;
+}
+
+.page-enter,
+.page-leave-to,
+.layout-enter,
+.layout-leave-to {
+  opacity: 0;
+}
+
+/* .fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.633s ease-in-out;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+} */
