@@ -2,6 +2,9 @@ export default {
   // mode: 'spa',
   ssr: false,
   target: 'static',
+  router: {
+    base: '/telemet/'
+  },
   /*
    ** Headers of the page
    */
