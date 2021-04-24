@@ -89,8 +89,9 @@ export default {
     meta: {
       name: 'טלאֱמֶת',
       lang: 'he',
-      ogHost: 'https://telemet.org',
-      ogImage: 'https://telemet.org/images/telemet-meta-social.jpg'
+      ogHost: 'https://telemet.github.io/telemet/',
+      ogImage:
+        'https://telemet.github.io/telemet/images/telemet-meta-social.jpg'
     }
   },
   webfontloader: {
@@ -99,7 +100,15 @@ export default {
     }
   },
   generate: {fallback: '404.html'},
-  components: true,
+  components: {
+    dirs: [
+      '~/components',
+      {
+        path: '~/components/icons/',
+        prefix: 'Icon'
+      }
+    ]
+  },
   content: {
     liveEdit: false,
     nestedProperties: ['author.name']

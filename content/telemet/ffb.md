@@ -59,14 +59,14 @@ author:
 
 ### קישור לדף המערכה
 
-[https://telemet.org/telemet/ffb](https://telemet.org/telemet/ffb)
+[https://telemet.github.io/telemet/ffb](https://telemet.github.io/telemet/ffb)
 
 ### כיתוב
 
 - העתק הדבק (אפשרות 1)
 
 > כל מי שממשיך את פעילותו בפייסבוק בדרך בה הוא תוכנת להשתמש ממשיך להיות חלק מהבעיה.  
-[https://telemet.org/telemet/ffb](https://telemet.org/telemet/ffb)  
+[https://telemet.github.io/telemet/ffb](https://telemet.github.io/telemet/ffb)  
 #פאק_פייסבוק  
 #ffb
 

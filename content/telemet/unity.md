@@ -51,26 +51,26 @@ author:
 
 ### קישור מרכזי למערכה
 
-[https://telemet.org](/)
+[https://telemet.github.io](/)
 
 ### כיתוב
 
 - העתק הדבק (אפשרות 1)
 
 > מתאחדים ומאחדים (בשיטת חבר-מביא-חבר) כי כי הכוח של האנשים גדול בהרבה ״מהאנשים עם הכוח״.  
-> [https://telemet.org](https://telemet.org)  
+> [https://telemet.github.io](https://telemet.github.io)  
 > #האיחוד
 
 - העתק הדבק (אפשרות 2)
 
 > כי הכוח של האנשים גדול בהרבה ״מהאנשים עם הכוח״.  
-> [https://telemet.org](https://telemet.org)  
+> [https://telemet.github.io](https://telemet.github.io)  
 > #האיחוד
 
 - העתק הדבק (אפשרות 3)
 
 > כי לבד אנחנו חלשים וביחד אנחנו חזקים.  
-> [https://telemet.org](https://telemet.org)  
+> [https://telemet.github.io](https://telemet.github.io)  
 > #האיחוד
 
 ### תמונות

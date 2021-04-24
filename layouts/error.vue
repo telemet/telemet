@@ -42,7 +42,7 @@ export default {
     return {
       title: 'אודות',
       description: 'אודות טלאֱמֶת'
-      // poster: 'https://telemet.org/images/telemet-meta-poster.jpg'
+      // poster: 'https://telemet.github.io/images/telemet-meta-poster.jpg'
     }
   },
   head() {

@@ -32,6 +32,6 @@ author:
 
 ### חשוב
 
-[יש להדפיס דף זה](https://telemet.org/pdf/vaccine/no-vac.pdf) [^1] ולשמור בארנק/תיק/כיס. חצי אחד אצלכם וחצי שני מיועד לשיתוף עם אהוביכם.
+[יש להדפיס דף זה](https://telemet.github.io/pdf/vaccine/no-vac.pdf) [^1] ולשמור בארנק/תיק/כיס. חצי אחד אצלכם וחצי שני מיועד לשיתוף עם אהוביכם.
 
-[^1]: [הדפס ושתף](https://telemet.org/pdf/vaccine/no-vac.pdf)
+[^1]: [הדפס ושתף](https://telemet.github.io/pdf/vaccine/no-vac.pdf)

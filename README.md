@@ -1,17 +1,17 @@
-<a href="https://telemet.org"><p align="center"><img width="100%" src="https://raw.githubusercontent.com/telemet/telemet/master/static/images/telemet-meta-social.jpg"></p></a>
+<a href="https://telemet.github.io"><p align="center"><img width="100%" src="https://raw.githubusercontent.com/telemet/telemet/master/static/images/telemet-meta-social.jpg"></p></a>
 
 <i><p align="center">"In a time of universal deceit telling the truth Is a revolutionary act" *~George Orwell*</p></i>
 
-# telemet.org
+# telemet.github.io
 
 ## Info
 רשת ידע מבוזרת וחופשייה. לחץ/י על הקישור לקבלת מידע ותשובות לשאלות נפוצות לגבי השימוש בממשק טלאֱמֶת החדש.
 
-https://telemet.org/faq
+https://telemet.github.io/faq
 
 
 ## Demo
-[טלאֱמֶת](https://telemet.org)
+[טלאֱמֶת](https://telemet.github.io)
 
 
 

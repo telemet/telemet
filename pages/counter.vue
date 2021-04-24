@@ -24,7 +24,7 @@
 export default {
   data() {
     return {
-      poster: 'https://telemet.org/images/telemet-poster-fb.jpg'
+      poster: 'https://telemet.github.io/images/telemet-poster-fb.jpg'
     }
   }
 }

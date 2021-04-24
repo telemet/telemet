@@ -54,7 +54,7 @@ author:
 
 <!-- ### קישור לדף המערכה -->
 
-<!-- [https://telemet.org/telemet/ffb](https://telemet.org/telemet/ffb) -->
+<!-- [https://telemet.github.io/telemet/ffb](https://telemet.github.io/telemet/ffb) -->
 
 <!-- ### כיתוב -->
 

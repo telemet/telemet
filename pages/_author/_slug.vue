@@ -206,7 +206,7 @@ export default {
       document.execCommand('Copy')
     },
     copyValue() {
-      return 'telemet.org/' + this.post.path
+      return 'telemet.github.io/' + this.post.path
     }
   },
   head() {

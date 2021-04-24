@@ -91,7 +91,7 @@ export default {
     return {
       title: 'ראשי',
       description: 'דף הבית של טלאֱמֶת',
-      poster: 'https://telemet.org/images/telemet-poster-fb.jpg'
+      poster: 'https://telemet.github.io/images/telemet-poster-fb.jpg'
     }
   },
   head() {
